@@ -1,4 +1,4 @@
-Hi, I’m @astroryan97, I'm a graduate student at the University of Calgary studying data science with an undergraduate background in astrophysics. I did work in radio astronomy under Dr. Jeroen Stil with a focus on cosmic magnetism in extragalactic sources. My work has been presented at several conferences which include the 2021 virtual SKA Science Conference. I also had the honor to give the first ever student research colloquium at the University of Calgary on February of last year. My first research paper was published on March 8, 2019.
+Hi, I’m @astroryan97, I'm a graduate student at the University of Alberta in the astrophysics group. I previously did work in radio astronomy under Dr. Jeroen Stil with a focus on cosmic magnetism in extragalactic sources. My work has been presented at several conferences which include the 2021 virtual SKA Science Conference. I also had the honor to give the first ever student research colloquium at the University of Calgary on February of last year. My first research paper was published on March 8, 2019.
 
 I’m interested in data science and all things astronomy!
 
